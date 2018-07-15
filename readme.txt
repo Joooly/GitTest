@@ -1,6 +1,6 @@
-Git is a version control system.
-Git is free software.
+﻿
 
+This is my git test.
 
+git clone https://github.com/Joooly/GitTest.git
 
-倒萨倒萨个
